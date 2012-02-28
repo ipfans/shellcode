@@ -1,0 +1,23 @@
+;Do not edit or modify this file!!!
+Easy Code 1.02.0.0004
+Begin ECProject = BindShell
+  EasyCodeProject=0
+  FileType=0
+  Processor=.386
+  Align=4
+  DebugInfo=1
+  AsmFiles=1
+  GlobalVariables=0
+  MLOptions=
+  LinkOptions=/section:.text,ERW
+  MMXOptions=0
+  CommonControls=1
+  RichEdit=1
+  PackFile=0
+  Macros=1
+  ECMacros=1
+  StartupWindow=Module1
+  Title=Easy Code classic project
+  Resources=Project1.ecr
+  Module=Shellcode.asm
+End
